@@ -1,0 +1,7 @@
+E:\GithubProjects\StartProgress\StartProgress\bin\Debug\StartProgress.exe.config
+E:\GithubProjects\StartProgress\StartProgress\bin\Debug\StartProgress.exe
+E:\GithubProjects\StartProgress\StartProgress\bin\Debug\StartProgress.pdb
+E:\GithubProjects\StartProgress\StartProgress\obj\Debug\StartProgress.csprojAssemblyReference.cache
+E:\GithubProjects\StartProgress\StartProgress\obj\Debug\StartProgress.csproj.CoreCompileInputs.cache
+E:\GithubProjects\StartProgress\StartProgress\obj\Debug\StartProgress.exe
+E:\GithubProjects\StartProgress\StartProgress\obj\Debug\StartProgress.pdb

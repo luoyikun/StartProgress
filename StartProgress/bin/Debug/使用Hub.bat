@@ -1,0 +1,1 @@
+copy /y "C:\ProgramData\Unity\Hub\Unity_lic.ulf" "C:\ProgramData\Unity\Unity_lic.ulf"

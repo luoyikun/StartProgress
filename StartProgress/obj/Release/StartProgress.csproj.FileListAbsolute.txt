@@ -1,0 +1,6 @@
+E:\GithubProjects\StartProgress\StartProgress\bin\Release\StartProgress.exe.config
+E:\GithubProjects\StartProgress\StartProgress\bin\Release\StartProgress.exe
+E:\GithubProjects\StartProgress\StartProgress\bin\Release\StartProgress.pdb
+E:\GithubProjects\StartProgress\StartProgress\obj\Release\StartProgress.csproj.CoreCompileInputs.cache
+E:\GithubProjects\StartProgress\StartProgress\obj\Release\StartProgress.exe
+E:\GithubProjects\StartProgress\StartProgress\obj\Release\StartProgress.pdb
